@@ -16,4 +16,7 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-380269?style=for-the-badge&logo=Confluence&logoColor=0c65f7)
 ![Slack](https://img.shields.io/badge/-Slack-380269?style=for-the-badge&logo=Slack&logoColor=ec0759)
 
-Follow me
+### Follow me
+[![Linkedin]( https://img.shields.io/badge/-Linkedin-380269?style=for-the-badge&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/diana-kolesnikova-03232023a/)
+[![Facebook]( https://img.shields.io/badge/-Facebook-380269?style=for-the-badge&logo=Facebook&logoColor=1096F5)](https://www.facebook.com/profile.php?id=100002415136376)
+[![Instagram]( https://img.shields.io/badge/-Instagram-380269?style=for-the-badge&logo=Instagram&logoColor=F34D4F)](https://www.instagram.com/dianaavramova/)
