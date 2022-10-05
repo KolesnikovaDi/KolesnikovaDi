@@ -1,4 +1,4 @@
-[![Header]( https://github.com/KolesnikovaDi/KolesnikovaDi/blob/main/assests/Qa.png)](https://www.linkedin.com/in/diana-kolesnikova-03232023a/)
+[![Header]( https://github.com/KolesnikovaDi/KolesnikovaDi/blob/main/assets/Qa.png)](https://www.linkedin.com/in/diana-kolesnikova-03232023a/)
 
 ## I am applying for the profession QA junior and would like to develop myself in this field. I know I am going to be a great employee because I’m hard working, attentive to details,self-confident, perseverant and have leadership qualities.
 
